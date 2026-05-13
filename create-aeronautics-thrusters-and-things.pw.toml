@@ -1,0 +1,16 @@
+filename = 'createthrusters-bundled-0.1.5.jar'
+name = 'Create Aeronautics: Thrusters and Things'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11bb5663b65c9f68dc9bce16ee658b9a2aec9455408e591a999e8ac4629badf2abfeaaaebf2474b14491133c8a1855a192f8e75a0768c65526d65ce2ff842742'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sza3GgEL/versions/5cZYxUng/createthrusters-bundled-0.1.5.jar'
+
+[update.modrinth]
+mod-id = 'Sza3GgEL'
+version = '5cZYxUng'

@@ -1,0 +1,16 @@
+filename = 'sky_archipelago-1.2.2.jar'
+name = 'Sky Archipelago'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e2f46c0efebfd337a8c1922a62794169813c2d534bad618770f5b2e83d25c3e50f8641a4c42695e666f0771a0fd56be6071105e3f0a26c8ab78c88f73c4996d3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sHFNUlBU/versions/Sr6avIdl/sky_archipelago-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'sHFNUlBU'
+version = 'Sr6avIdl'
